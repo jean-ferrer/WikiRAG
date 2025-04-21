@@ -1,4 +1,4 @@
-# Wikipedia RAG with Chroma & FAISS
+# Wikipedia RAG
 
 This project implements a Retrieval-Augmented Generation (RAG) system using data extracted from the Simple English Wikipedia. It leverages LangChain to orchestrate the process, Sentence Transformers for creating embeddings, uses ChromaDB and FAISS as vector stores for retrieval, and uses a LLM via LangChain for generating answers based on the retrieved context.
 
